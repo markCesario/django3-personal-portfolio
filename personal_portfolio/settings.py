@@ -25,7 +25,7 @@ SECRET_KEY = '_#uo64+k)x+!#4yy4ax!4n9v4$#*3@3^2_97lgob-)nwd*+12$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['mce.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.markjcesario.com']
 
 
 # Application definition
